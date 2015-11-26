@@ -8,7 +8,7 @@
     <global>
         <catalog>
             <content>
-                <tempate_filter>block/template_filter</tempate_filter><!-- change the template filter -->
+                <tempate_filter>cms/template_filter</tempate_filter><!-- change the template filter -->
             </content>
         </catalog>
     </global>
