@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <StackExchange_Catalog>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Catalog />
+                <Mage_Cms />
+                <Mage_Widget />
+            </depends>
+        </StackExchange_Catalog>
+    </modules>
+</config>

@@ -1,2 +1,2 @@
-app/code/local/Iou/Directive/etc/config.xml            app/code/local/Iou/Directive/etc/config.xml          
-app/etc/modules/Iou_Directive.xml                      app/etc/modules/Iou_Directive.xml                    
+app/code/local/StackExchange/Catalog/etc/config.xml     app/code/local/StackExchange/Catalog/etc/config.xml
+app/etc/modules/StackExchange_Catalog.xml               app/etc/modules/StackExchange_Catalog.xml

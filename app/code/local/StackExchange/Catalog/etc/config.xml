@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <catalog>
+            <content>
+                <tempate_filter>widget/template_filter</tempate_filter>
+            </content>
+        </catalog>
+    </global>
+</config>
