@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Iou_Directive>
+            <codePool>local</codePool>
+            <active>true</active>
+            <depends>
+                <Mage_Catalog /><!-- Should be loaded after the catalog module -->
+            </depends>
+        </Iou_Directive>
+    </modules>
+</config>

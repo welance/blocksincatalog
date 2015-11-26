@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Iou_Directive>
+            <version>1.0.0</version>
+        </Iou_Directive>
+    </modules>
+    <global>
+        <catalog>
+            <content>
+                <tempate_filter>widget/template_filter</tempate_filter><!-- change the template filter -->
+            </content>
+        </catalog>
+    </global>
+</config>
